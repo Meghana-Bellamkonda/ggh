@@ -41,6 +41,7 @@ create a .env.local file and add your keys
 ## Hosted URL 
  
  ```https
+https://ggh-rose.vercel.app/
 
  ```
 
