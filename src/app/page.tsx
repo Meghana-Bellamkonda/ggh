@@ -37,7 +37,7 @@ export default function Home() {
                 Get Started
               </button>
             </Link>
-            <Link href="/">
+            <Link href="https://github.com/Meghana-Bellamkonda/ggh">
               <button className="px-10 lg:w-auto w-full text-black border items-center justify-center bg-white py-3 text-sm rounded-lg items-center font-normal hover:bg-gray-50 flex gap-2">
                 <FaGithub className="text-xl" />
                 Star On GitHub

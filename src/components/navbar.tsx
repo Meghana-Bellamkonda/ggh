@@ -15,7 +15,7 @@ function Navbar() {
             <span className='font-bold text-black'>Medical Assistant</span>
         </div>
         <div className='flex items-center gap-4'>
-            <Link href="/">
+            <Link href="https://github.com/Meghana-Bellamkonda/ggh">
                 <FaGithub className='text-2xl text-gray-600 hover:text-black'/>
             </Link>
             <UserButton/>
